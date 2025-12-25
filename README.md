@@ -1535,7 +1535,7 @@ frequency_words.txt 文件增加了一个【必须词】功能，使用 + 号
       - **Workspace**：从下拉列表选择你的工作空间
       - 点击 **"Create App"** 按钮
 
-   ### 步骤 2：启用 Incoming Webhooks
+   ### 步骤 2：启用 Incoming Webhooks 
 
    1. **导航到 Incoming Webhooks**：
       - 在左侧菜单中找到并点击 **"Incoming Webhooks"**
